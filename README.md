@@ -57,7 +57,8 @@ npm run dev
 .
 ├── public/                 # Static files (e.g. icons, images)
 └── src/
-    ├── HomePage.jsx        # Main app file
+    ├── components/         # Modular app components
+    ├── App.jsx             # Main app file
     ├── main.jsx            # React root + Tailwind import
     └── index.css           # Tailwind directives + custom CSS
 
